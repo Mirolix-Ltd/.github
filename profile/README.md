@@ -9,16 +9,16 @@
       <img src="https://img.shields.io/badge/TRADING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/STAKING-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/STAKING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/FARMING-FB6022?logo=amazondynamodb&logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/FARMING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/OPTIONS-FB6022?logo=anaconda&logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/OPTIONS-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/DUALINVEST-FB6022?logo=MasterCard&logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/DUALINVEST-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
       <a href="#">
       <img src="https://img.shields.io/badge/HEDGE-FB6022?logo=freedesktopdotorg&logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
