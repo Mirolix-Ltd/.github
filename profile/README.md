@@ -9,19 +9,19 @@
       <img src="https://img.shields.io/badge/TRADING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/STAKING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
-    </a>
-    <a href="#">
       <img src="https://img.shields.io/badge/FARMING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/HEDGE-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+    </a>    
     <a href="#">
       <img src="https://img.shields.io/badge/OPTIONS-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/DUALINVEST-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
-      <a href="#">
-      <img src="https://img.shields.io/badge/HEDGE-FB6022?logo=freedesktopdotorg&logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+    <a href="#">
+      <img src="https://img.shields.io/badge/STAKING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
   </p>
 </div>
