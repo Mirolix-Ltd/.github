@@ -9,19 +9,19 @@
       <img src="https://img.shields.io/badge/TRADING-fff?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/FARMING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/FARMING-fff?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/HEDGE-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/HEDGE-fff?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>    
     <a href="#">
-      <img src="https://img.shields.io/badge/OPTIONS-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/OPTIONS-fff?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/DUALINVEST-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/DUALINVEST-fff?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/STAKING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/STAKING-fff?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
   </p>
 </div>
