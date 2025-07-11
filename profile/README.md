@@ -6,7 +6,7 @@
 <div>
   <p align="center">
     <a href="#">
-      <img src="https://img.shields.io/badge/TRADING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
+      <img src="https://img.shields.io/badge/TRADING-FB6021?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/FARMING-FB6022?logoColor=fff&style=for-the-badge" alt="Mirolix Badge" />
